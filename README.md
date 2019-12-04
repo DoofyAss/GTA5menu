@@ -8,6 +8,8 @@
 <img src="https://s.rsg.sc/sc/rockstar.ico" width="24" height="24"> <sup>[Doofy.Ass](https://ru.socialclub.rockstargames.com/member/Doofy.Ass "Rockstar Social Club")</sup>  
 <img src="https://github.com/mrblackvein/GTA5menu/blob/master/images/animation.gif"> <img src="https://github.com/mrblackvein/GTA5menu/blob/master/images/page.gif"> <img src="https://github.com/mrblackvein/GTA5menu/blob/master/images/attach.gif"> <img src="https://github.com/mrblackvein/GTA5menu/blob/master/images/online.gif">
 
+<sup>[ScriptHookV](http://www.dev-c.com/gtav/scripthookv "ScriptHookV")</sup>
+
 ## <sub>Controls</sub>
 
 > `END`  
